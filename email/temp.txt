@@ -1,0 +1,14 @@
+Hi Teams,
+
+ {{ .Body }}
+
+ 
+ Thanking You,
+
+ Yours Faithfullhy,
+
+ {{ .Name}}
+
+ {{ .Startdate}}
+
+ 
